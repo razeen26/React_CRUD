@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Streamy",
+      "description": "Create Streams",
+      "id": "1"
+    },
+    {
+      "title": "Razeen",
+      "description": "Razeen Aman",
+      "id": "3HEit98"
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Didn't expect that!",
+      "userId": "102665165425277826926",
+      "id": "C-lKcfI"
+    },
+    {
+      "title": "New Stream Created",
+      "description": "This stream was made by PATCH request",
+      "userId": "102665165425277826926",
+      "id": "mznofeW"
+    }
+  ]
+}
